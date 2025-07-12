@@ -1,53 +1,23 @@
-# Exercism Java Exercises
+# Java Online Exercises
 
-This repository contains solutions to selected Java exercises from the [Exercism](https://exercism.org/) platform.
+This repository contains Java solutions, notes, and learning paths from various coding platforms:
 
-## About Exercism
+- [Exercism](https://exercism.org/)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Codewars](https://www.codewars.com/)
+- [Beecrowd (URI)](https://www.beecrowd.com.br/)
 
-[Exercism](https://exercism.org/) is an open-source platform that provides hands-on programming practice through exercises in a wide variety of programming languages. It encourages mentorship and learning by doing.
+## Purpose
 
-## Repository Purpose
-
-The goal of this repository is to:
-
-- Practice Java through real-world, test-driven problems
-- Explore idiomatic solutions and alternative approaches
-- Improve proficiency with the Java language and its ecosystem
+- Improve problem-solving skills
+- Practice Java fundamentals and algorithms
+- Prepare for interviews and challenges
 
 ## Structure
 
-Each exercise is organized in its own directory, typically with:
+Each folder contains solutions and notes for problems from a specific platform or topic.
 
-- ✅ Java source code
-- 🧪 Unit tests (provided or custom)
-- 📝 README or notes per exercise (optional)
+## Getting Started
 
-Example folder structure:
-```
-exercism-java/
-├── hello-world/
-│   ├── src/
-│   └── test/
-├── two-fer/
-│   ├── src/
-│   └── test/
-...
-```
-
-## Running Tests
-
-Make sure you have JDK 8+ and a build tool like Maven installed.
-
-You can run the tests using:
-
-```bash
-mvn test
-```
-
-## License
-
-The original exercise problems are from Exercism and are distributed under the [MIT License](https://opensource.org/licenses/MIT). This repository contains my personal solutions.
-
-## Author
-
-👤 [Diego Umpierre](https://www.linkedin.com/in/diego-umpierre/)
+Clone the repo and explore the platform or topic you're interested in.
